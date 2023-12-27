@@ -1,0 +1,24 @@
+package unityCLI.Helper;
+
+import org.reflections.Reflections;
+
+import java.util.Set;
+
+public class ClassHelper {
+    private static String packageName = "unityCLI.PersonValues";
+    private static Reflections reflections = new Reflections(packageName);
+
+    public static String getClassName(Class<?> clazz){
+        String classname = clazz.getName();
+        int lastIndex = classname.lastIndexOf('.');
+        return classname.substring(lastIndex + 1);
+    }
+
+    public static Set<Class<? extends Enum>> getDocValues(){
+        Set<Class<? extends Enum>> enumClasses = reflections.getSubTypesOf(Enum.class);
+//        for (Class<? extends Enum> enumClass : enumClasses) {
+//            System.out.println("Found enum class: " + enumClass.getName());
+//        }
+        return enumClasses;
+    }
+}

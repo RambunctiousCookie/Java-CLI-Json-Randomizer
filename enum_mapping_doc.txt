@@ -1,0 +1,39 @@
+**Enum Mapping Information**
+	RelationshipStatus
+		0 represents SINGLE
+		1 represents MARRIED
+		2 represents IN_A_RELATIONSHIP
+		3 represents DIVORCED
+		4 represents WIDOWED
+	Nationality
+		0 represents AMERICAN
+		1 represents BRITISH
+		2 represents CANADIAN
+		3 represents AUSTRALIAN
+		4 represents OTHER
+	EyeColor
+		0 represents BROWN
+		1 represents BLUE
+		2 represents GREEN
+		3 represents HAZEL
+	HairColor
+		0 represents BLACK
+		1 represents BROWN
+		2 represents BLONDE
+		3 represents RED
+		4 represents OTHER
+	Occupation
+		0 represents STUDENT
+		1 represents ENGINEER
+		2 represents DOCTOR
+		3 represents TEACHER
+		4 represents ARTIST
+		5 represents OTHER
+	Gender
+		0 represents MALE
+		1 represents FEMALE
+		2 represents OTHER
+	Mood
+		0 represents HAPPY
+		1 represents SAD
+		2 represents ANGRY
