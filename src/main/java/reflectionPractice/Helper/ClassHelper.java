@@ -1,11 +1,12 @@
-package unityCLI.Helper;
+package reflectionPractice.Helper;
 
 import org.reflections.Reflections;
 
 import java.util.Set;
 
 public class ClassHelper {
-    private static String packageName = "unityCLI.PersonValues";
+    private static String packageName = "reflectionPractice.PersonValues";
+    //TODO: figure out a way to change this programmatically
     private static Reflections reflections = new Reflections(packageName);
 
     public static String getClassName(Class<?> clazz){

@@ -1,9 +1,9 @@
-package unityCLI;
+package reflectionPractice;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
-import unityCLI.Helper.EnumDocHelper;
-import unityCLI.Helper.GroupJsonCreator;
+import reflectionPractice.Helper.EnumDocHelper;
+import reflectionPractice.Helper.GroupJsonCreator;
 
 import java.io.FileWriter;
 import java.io.IOException;

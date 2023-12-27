@@ -1,89 +1,89 @@
 {
   "Group_1": {
     "Person_1": {
-      "Occupation": 3,
-      "EyeColor": 3,
-      "Mood": 1,
-      "Gender": 1,
-      "RelationshipStatus": 0,
-      "HairColor": 0,
-      "Nationality": 4
-    },
-    "Person_2": {
-      "Occupation": 1,
-      "EyeColor": 0,
-      "Mood": 2,
-      "Gender": 2,
-      "RelationshipStatus": 0,
-      "HairColor": 1,
-      "Nationality": 0
-    },
-    "Person_3": {
-      "Occupation": 3,
-      "EyeColor": 1,
-      "Mood": 0,
-      "Gender": 0,
-      "RelationshipStatus": 2,
-      "HairColor": 3,
-      "Nationality": 1
-    }
-  },
-  "Group_2": {
-    "Person_1": {
-      "Occupation": 3,
-      "EyeColor": 3,
-      "Mood": 0,
-      "Gender": 2,
-      "RelationshipStatus": 3,
-      "HairColor": 1,
-      "Nationality": 3
-    },
-    "Person_2": {
-      "Occupation": 0,
-      "EyeColor": 0,
-      "Mood": 1,
-      "Gender": 1,
-      "RelationshipStatus": 3,
-      "HairColor": 3,
-      "Nationality": 3
-    },
-    "Person_3": {
-      "Occupation": 5,
-      "EyeColor": 3,
-      "Mood": 0,
-      "Gender": 2,
-      "RelationshipStatus": 2,
-      "HairColor": 1,
-      "Nationality": 4
-    }
-  },
-  "Group_3": {
-    "Person_1": {
-      "Occupation": 4,
-      "EyeColor": 1,
-      "Mood": 1,
-      "Gender": 2,
-      "RelationshipStatus": 4,
-      "HairColor": 0,
-      "Nationality": 3
-    },
-    "Person_2": {
-      "Occupation": 0,
-      "EyeColor": 0,
-      "Mood": 1,
-      "Gender": 2,
-      "RelationshipStatus": 2,
-      "HairColor": 4,
-      "Nationality": 2
-    },
-    "Person_3": {
       "Occupation": 2,
       "EyeColor": 3,
       "Mood": 2,
       "Gender": 2,
+      "HairColor": 1,
       "RelationshipStatus": 3,
-      "HairColor": 3,
-      "Nationality": 3
+      "Nationality": 1
+    },
+    "Person_2": {
+      "Occupation": 2,
+      "EyeColor": 3,
+      "Mood": 1,
+      "Gender": 2,
+      "HairColor": 0,
+      "RelationshipStatus": 3,
+      "Nationality": 1
+    },
+    "Person_3": {
+      "Occupation": 3,
+      "EyeColor": 2,
+      "Mood": 0,
+      "Gender": 1,
+      "HairColor": 1,
+      "RelationshipStatus": 2,
+      "Nationality": 2
+    }
+  },
+  "Group_2": {
+    "Person_1": {
+      "Occupation": 1,
+      "EyeColor": 1,
+      "Mood": 0,
+      "Gender": 0,
+      "HairColor": 2,
+      "RelationshipStatus": 4,
+      "Nationality": 0
+    },
+    "Person_2": {
+      "Occupation": 0,
+      "EyeColor": 3,
+      "Mood": 0,
+      "Gender": 2,
+      "HairColor": 0,
+      "RelationshipStatus": 4,
+      "Nationality": 0
+    },
+    "Person_3": {
+      "Occupation": 3,
+      "EyeColor": 2,
+      "Mood": 2,
+      "Gender": 1,
+      "HairColor": 2,
+      "RelationshipStatus": 1,
+      "Nationality": 0
+    }
+  },
+  "Group_3": {
+    "Person_1": {
+      "Occupation": 5,
+      "EyeColor": 1,
+      "Mood": 0,
+      "Gender": 1,
+      "HairColor": 2,
+      "RelationshipStatus": 2,
+      "Nationality": 4
+    },
+    "Person_2": {
+      "Occupation": 3,
+      "EyeColor": 1,
+      "Mood": 2,
+      "Gender": 0,
+      "HairColor": 2,
+      "RelationshipStatus": 1,
+      "Nationality": 2
+    },
+    "Person_3": {
+      "Occupation": 3,
+      "EyeColor": 0,
+      "Mood": 1,
+      "Gender": 2,
+      "HairColor": 4,
+      "RelationshipStatus": 2,
+      "Nationality": 0
     }
   }
 }

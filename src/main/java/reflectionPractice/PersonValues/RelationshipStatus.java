@@ -1,4 +1,4 @@
-package unityCLI.PersonValues;
+package reflectionPractice.PersonValues;
 
 public enum RelationshipStatus {
     SINGLE,
