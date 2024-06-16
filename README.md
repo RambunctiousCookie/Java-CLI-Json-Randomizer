@@ -1,5 +1,5 @@
-# Java Command Line Interface Json Randomizer
-This is a simple project that generates a randomized json output with configurable attributes and key-value data.
+# Java Json Randomizer
+This is a simple project that generates a randomized json output with configurable attributes and key-value data. It uses a command-line interface.
 
 ## Setup
 Simply run Maven to install the required dependencies, and then run the project via `Main`.
